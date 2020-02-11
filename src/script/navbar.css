@@ -1,0 +1,15 @@
+.navbar{
+    background: red;
+    padding:5px;
+    display:flex;
+    justify-content:space-between;
+}
+.logo{
+    text-align:left;
+    font-size:20px;
+}
+.login{ 
+    font-size:20px;
+    padding: 0px 5px 0px 0px;
+    float:right;
+}
